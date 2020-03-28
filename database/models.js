@@ -1,10 +1,12 @@
 const express = require('express');
 const mysql = require('mysql');
 var connection = mysql.createConnection({
-    user : 'root', //Put your username and password for SQL in here
+    host: '172.17.0.2',
+    port: '3306',
+    user : 'root', //CHANGE THIS TO YOUR USERNAME
+    password:'xochi',//CHANGE THIS TO YOUR PASSWORD
     database : 'reviewsComponent'
 })
-
 connection.connect();
 
 
