@@ -1,0 +1,28 @@
+# version: '3'
+
+# services:
+#   app:
+#     container_name: app
+#     # restart: always
+#     build: .
+#     depends_on:
+#       - database
+#     ports: 
+#       - "3333:3333"
+ 
+  
+
+#   database:
+#     # container_name: mysql
+#     image: mysql/mysql-server
+#     environment:
+#         MYSQL_DATABASE: reviews_component
+#         MYSQL_USER:  kim
+#         MYSQL_PASSWORD: volca
+
+   
+#     ports:
+#       - '27017:27017'
+    
+
+ 
