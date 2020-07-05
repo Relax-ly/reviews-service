@@ -77,7 +77,7 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/Users/kimderosa/hackReactor/FEC/reviews-service/dist";
+/******/ 	__webpack_require__.p = "/Users/kimderosa/hackReactor/relaxly_reviews/reviews-service/dist";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
